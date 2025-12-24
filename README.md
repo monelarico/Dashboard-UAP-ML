@@ -242,10 +242,10 @@ streamlit run app.py
 
 ## 👤 Biodata
 
-**Nama**: (Muhammad Dava Diansyah) <br>
-**NIM**: (202210370311243) <br>
+**Nama**: Muhammad Dava Diansyah <br>
+**NIM**: 202210370311243 <br>
 **Program Studi**: Teknik Informatika <br>
-**Universitas**: (Universitas Muhammadiyah Malang)
+**Universitas**: Universitas Muhammadiyah Malang
 
 ---
 
