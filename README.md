@@ -191,16 +191,20 @@ Perbedaan performa ini menunjukkan bahwa model berbasis *transformer* lebih efek
 
 Untuk memudahkan penggunaan model, dikembangkan sebuah **dashboard interaktif berbasis Streamlit**.
 
-### ✨ Fitur Dashboard
+### ✨ Fitur Dashboard & 🖥️ Tampilan Aplikasi
 
 * Input lirik lagu dalam bentuk teks
 * Pemilihan model (LSTM / IndoBERT / IndoRoBERTa)
+
+![dashboard1](Asset-image/tampilan2.png)
+  
 * Prediksi emosi lirik lagu
+
+![dashboard2](Asset-image/tampilan3.png)
+  
 * Visualisasi confidence score untuk setiap kelas emosi
 
-### 🖥️ Tampilan Aplikasi
-
-*(Tambahkan screenshot dashboard di folder assets dan tampilkan di sini)*
+  ![dashboard3](Asset-image/tampilan4.png)
 
 ---
 
