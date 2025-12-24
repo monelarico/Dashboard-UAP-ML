@@ -1,6 +1,6 @@
 # 🎵 INDONESIAN SONG LYRICS EMOTION CLASSIFICATION
 
-![Project Banner](assets/banner.png)
+![Project Banner](assets/banner-Readme.jpg)
 
 ## 📌 Deskripsi Project
 
