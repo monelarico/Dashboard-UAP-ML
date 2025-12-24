@@ -57,6 +57,7 @@ Dataset ini digunakan untuk melatih dan mengevaluasi model klasifikasi emosi ber
 
 Tahapan preprocessing yang dilakukan meliputi:
 
+* *Augmentasi data menjadi 11.321 jumlah data
 * *Case folding* (mengubah teks menjadi huruf kecil)
 * *Text cleaning* (menghapus tanda baca, angka, dan karakter khusus)
 * *Tokenization*
@@ -213,7 +214,8 @@ Untuk memudahkan penggunaan model, dikembangkan sebuah **dashboard interaktif be
 ### 1️⃣ Software Utama
 
 * Python 3.10+
-* Google Colab / VSCode
+* Google Colab
+* VSCode
 
 ### 2️⃣ Instalasi Dependensi
 
@@ -272,4 +274,4 @@ Beberapa pengembangan yang dapat dilakukan di masa mendatang antara lain:
 
 ---
 
-📌 *Project ini dikembangkan sebagai bagian dari pembelajaran dan eksplorasi dalam bidang Natural Language Processing dan Deep Learning untuk bahasa Indonesia.*
+📌 *Project ini dikembangkan sebagai bagian dari ujian praktikum machine learning dan eksplorasi dalam bidang Natural Language Processing dan Deep Learning untuk bahasa Indonesia.*
