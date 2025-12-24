@@ -194,15 +194,15 @@ Untuk memudahkan penggunaan model, dikembangkan sebuah **dashboard interaktif be
 
 ### ✨ Fitur Dashboard & 🖥️ Tampilan Aplikasi
 
-* Input lirik lagu dalam bentuk teks
 * Pemilihan model (LSTM / IndoBERT / IndoRoBERTa)
 
 ![dashboard1](Asset-image/tampilan2.png)
-  
-* Prediksi emosi lirik lagu
+
+* Input lirik lagu dalam bentuk teks
 
 ![dashboard2](Asset-image/tampilan3.png)
-  
+
+* Prediksi emosi lirik lagu
 * Visualisasi confidence score untuk setiap kelas emosi
 
   ![dashboard3](Asset-image/tampilan4.png)
