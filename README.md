@@ -181,7 +181,9 @@ Berdasarkan hasil evaluasi, dapat disimpulkan bahwa:
 
 Perbedaan performa ini menunjukkan bahwa model berbasis *transformer* lebih efektif dalam memahami konteks dan nuansa emosi pada lirik lagu dibandingkan model sekuensial tradisional seperti LSTM.
 
-*(Detail hasil evaluasi dapat dilihat pada notebook dan visualisasi yang tersedia di repository ini.)**
+### Tabel Perbandingan Model
+
+![Confusion Matrix](Asset-image/perbandingan-tiga-model.png)
 
 ---
 
