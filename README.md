@@ -132,6 +132,15 @@ Model LSTM mampu menangkap pola sekuensial pada lirik lagu, namun performanya ma
 * **Macro Average F1-Score**: 0.82
 * **Weighted Average F1-Score**: 0.84
 
+### Confusion Matrix
+
+![Confusion Matrix](Asset-image/cm-indobert.png)
+
+### Grafik Akurasi
+
+![Grafik Akurasi&Loss](Asset-image/grafik-loss-indobert.png)
+
+
 IndoBERT menunjukkan performa terbaik di antara ketiga model. Hal ini disebabkan oleh kemampuannya dalam memahami konteks kata secara dua arah (*bidirectional context*) pada bahasa Indonesia.
 
 ---
@@ -148,6 +157,15 @@ IndoBERT menunjukkan performa terbaik di antara ketiga model. Hal ini disebabkan
 * **Accuracy**: 0.79
 * **Macro Average F1-Score**: 0.77
 * **Weighted Average F1-Score**: 0.79
+
+### Confusion Matrix
+
+![Confusion Matrix](Asset-image/cm-roberta.png)
+
+### Grafik Akurasi
+
+![Grafik Akurasi&Loss](Asset-image/grafik-loss-roberta.png)
+
 
 IndoRoBERTa memberikan performa yang lebih stabil dibandingkan LSTM, terutama dalam menangkap konteks emosional pada lirik lagu, namun masih berada di bawah IndoBERT.
 
