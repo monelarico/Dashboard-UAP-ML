@@ -108,10 +108,10 @@ Evaluasi performa model dilakukan menggunakan beberapa metrik klasifikasi, yaitu
 * **Weighted Average F1-Score**: 0.70
 
 ###Confusion Matrix
-(Asset-image/cm-lstm.png)
+![Confusion Matrix](Asset-image/cm-lstm.png)
 
 ###Grafik Akurasi
-(Asset-image/grafik-loss-lstm.png)
+![Grafik Akurasi&Loss](Asset-image/grafik-loss-lstm.png)
 
 Model LSTM mampu menangkap pola sekuensial pada lirik lagu, namun performanya masih terbatas terutama pada kelas dengan distribusi data yang tidak seimbang.
 
