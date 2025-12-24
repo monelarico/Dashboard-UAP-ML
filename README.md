@@ -201,7 +201,7 @@ streamlit run app.py
 
 ## 🔗 Link & Resource
 
-* 📓 Notebook Training Model
+* 📓 Notebook Training Model : (https://colab.research.google.com/drive/1rITFdWzcBUpKP5w1zV564t4ySEyRalv_?usp=sharing)
 * 📊 Dataset Kaggle
 * 🌐 Live Demo Streamlit *(jika tersedia)*
 
